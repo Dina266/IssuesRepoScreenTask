@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task4</string>
+    <string name="details_app_bar_title">Details</string>
+    <string name="back_arrow">Back Arrow</string>
+    <string name="ic_issue">Issue Icon</string>
+    <string name="createdAt">Created At : </string>
+    <string name="issues_app_bar_title">Issues </string>
+</resources>
